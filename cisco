@@ -1,0 +1,8 @@
+yucai@yucai-ThinkPad-X200:~$ sudo passwd
+yucai@yucai-ThinkPad-X200:~$ tar -zxvf anyconnect-linux64-4.10.06079-predeploy-k9.tar.gz
+yucai@yucai-ThinkPad-X200:~$ cd anyconnect-linux64-4.6.02074
+yucai@yucai-ThinkPad-X200:~$ cd vpn
+yucai@yucai-ThinkPad-X200:~$ sudo /vpn_install.sh
+yucai@yucai-ThinkPad-X200:~$ apt search libpangox
+yucai@yucai-ThinkPad-X200:~$ sudo apt-get install libpangoxft-1.0-0
+
